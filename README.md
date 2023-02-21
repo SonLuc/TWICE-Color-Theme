@@ -1,16 +1,13 @@
-# twice-color-theme README
+# TWICE Colors Theme proyect
 
-## Working with Markdown
+## What is "TWICE Colors Theme"?
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+**"TWICE Color Theme"** is an **extension** on VSCode to convert the color of your development environment in more saturated colors that represent the k-pop group "TWICE".
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## What themes will you be able to use?
+* TWICE "Eyes Wide Open" version.
+    * *Eyes Wide Open - Style ver*.
+    * *Eyes Wide Open - Retro ver*.
+    * *Eyes Wide Open - Story ver*.
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+And more at the future! 
