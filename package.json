@@ -1,0 +1,21 @@
+{
+  "name": "twice-color-theme",
+  "displayName": "TWICE Color Theme",
+  "description": "\"TWICE Color Theme\" is an extension on VSCode to convert the color of your development environment in more saturated colors that represent the K-Pop group \"TWICE\"",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TWICE \"Eyes Wide Open\" ver.",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TWICE Eyes Wide Open-color-theme.json"
+      }
+    ]
+  }
+}
